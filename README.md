@@ -1,0 +1,2 @@
+# GoBenchMark
+Test GoLang Benchmark
